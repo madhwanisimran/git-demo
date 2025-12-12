@@ -1,3 +1,5 @@
 # git-demo
+
 This is a git demo repo
-Author- Simran Madhwani
+<br>
+Author- Simran Madhwani (student)
